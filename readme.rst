@@ -13,6 +13,10 @@ Migrate the DB::
 
     python manage.py migrate
 
+Running the app::
+
+    python manage.py runserver
+
 Code coverage
 --------------
 
