@@ -8,3 +8,7 @@ To use project::
 
     pipenv install
     pipenv shell
+
+Migrate the DB::
+
+    python manage.py migrate
