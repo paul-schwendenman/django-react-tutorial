@@ -29,3 +29,10 @@ Generate HTML report::
 Commandline report::
 
     coverage report
+
+Seeding DB
+-----------
+
+Installing fixtures::
+
+    python manage.py loaddata leads
