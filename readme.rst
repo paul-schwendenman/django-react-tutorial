@@ -45,3 +45,15 @@ Seeding DB
 Installing fixtures::
 
     python manage.py loaddata leads
+
+
+Running E2E tests
+------------------
+
+After starting the app in a separate terminal::
+
+    python manage.py runserver
+
+Start the tests::
+
+    npm run e2e
