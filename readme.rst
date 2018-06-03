@@ -12,3 +12,20 @@ To use project::
 Migrate the DB::
 
     python manage.py migrate
+
+Code coverage
+--------------
+
+::
+
+    coverage run --source='.' manage.py test
+
+
+Generate HTML report::
+
+    coverage html
+    open htmlcov/index.html
+
+Commandline report::
+
+    coverage report
