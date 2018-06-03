@@ -7,11 +7,16 @@ https://www.valentinog.com/blog/tutorial-api-django-rest-react/
 To use project::
 
     pipenv install
+    npm install
     pipenv shell
 
 Migrate the DB::
 
     python manage.py migrate
+
+Run webpack with::
+
+    npm run dev
 
 Running the app::
 
