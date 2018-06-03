@@ -20,6 +20,7 @@
     "prop-types": "^15.6.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
+    "shortid": "^2.2.8",
     "webpack": "^4.10.2",
     "webpack-cli": "^3.0.1"
   }
