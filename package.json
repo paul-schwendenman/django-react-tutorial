@@ -24,7 +24,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
     "shortid": "^2.2.8",
-    "webpack": "^4.10.2",
+    "webpack": "^4.42.1",
     "webpack-cli": "^3.0.1"
   }
 }
